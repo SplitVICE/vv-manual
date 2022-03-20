@@ -1,19 +1,7 @@
-# vv-manual
+# VV-Manual
 
-## Project setup
-```
-npm install
-```
+[![N|Solid](https://dl.dropboxusercontent.com/s/oy06v7r8d871cr8/splitvice-banner.png?dl=0)](http://split-vice.com)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Vue CLI application to make generic manuals.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<img src="https://dl.dropboxusercontent.com/s/q39m3o0a565obn0/vv-manual-demo.png" />
